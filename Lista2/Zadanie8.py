@@ -1,0 +1,5 @@
+znaki = input()
+list = list(znaki)
+napis = "".join(list)
+print(list)
+print(napis)
